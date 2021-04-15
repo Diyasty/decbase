@@ -1,9 +1,9 @@
 # Decbase Landing Page
 ## Simple Landing Page
 ### tools
--Html
--css
--bootstrap
+1. Html
+1. css
+1. bootstrap
 
 ## Live Review 
 
